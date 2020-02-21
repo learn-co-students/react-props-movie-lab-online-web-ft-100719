@@ -13,7 +13,7 @@
   "dependencies": {
     "mocha-multi": "^1.0.1",
     "react": "^16.4.1",
-    "react-dom": "^16.4.1",
+    "react-dom": "^16.12.0",
     "react-scripts": "^1.1.5",
     "webpack": "^3.11.0"
   },
@@ -34,5 +34,20 @@
     "enzyme-adapter-react-16": "^1.1.1",
     "mocha": "^5.2.0",
     "sinon": "^6.1.0"
-  }
+  },
+  "description": "## Objectives",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stef-codes/react-props-movie-lab-online-web-ft-100719.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stef-codes/react-props-movie-lab-online-web-ft-100719/issues"
+  },
+  "homepage": "https://github.com/stef-codes/react-props-movie-lab-online-web-ft-100719#readme"
 }
